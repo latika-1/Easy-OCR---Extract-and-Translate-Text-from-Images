@@ -1,0 +1,1 @@
+# Easy-OCR---Extract-and-Translate-Text-from-Images
